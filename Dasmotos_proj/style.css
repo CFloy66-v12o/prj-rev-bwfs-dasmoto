@@ -1,0 +1,66 @@
+body {
+ margin-right: inherit: auto;
+ background-color: white;
+ font-family: 'Raleway'; Sans-serif; 
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#header {
+  background-image: url("C:/Users/canma/OneDrive/Documents/Dasmotos_proj/resources/images/tileimage.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-height: 215px;
+  background-width: 30px;
+  background-padding: 50px;
+  background-margin: 35px;
+}
+
+#brushes {
+  background-color: LightGreen;
+  font-size: 32px
+  font-family: Helvetica
+  font-weight:bold;
+  color: White;
+}
+
+#frames {
+  background-color: Firebrick;
+  color: White;
+}
+
+#paint {
+  background-color: LightBlue;
+  color: White;
+}
+
+
+h3 {
+  font-style: bold;
+  font-family: cursive;
+  text-align-last: inherit;
+  padding-right: 40px;
+}
+
+em {
+  color: blue;
+  font-style: bold;
+}
+
+p {
+  font-style: bold;
+  font-size: 18px;
+  font-family:sans-serif, monospace, serif;
+}
